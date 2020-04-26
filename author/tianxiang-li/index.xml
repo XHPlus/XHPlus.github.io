@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tianxiang Li | Ruihao Gong</title>
+    <link>/author/tianxiang-li/</link>
+      <atom:link href="/author/tianxiang-li/index.xml" rel="self" type="application/rss+xml" />
+    <description>Tianxiang Li</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Nov 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0218ab8280f4fa11ac3ef903ebdf935e_6403_512x512_fill_lanczos_center_2.png</url>
+      <title>Tianxiang Li</title>
+      <link>/author/tianxiang-li/</link>
+    </image>
+    
+    <item>
+      <title>Differentiable Soft Quantization: Bridging Full-Precision and Low-Bit Neural Networks</title>
+      <link>/publication/conference-paper/iccv2019/dsq/</link>
+      <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/conference-paper/iccv2019/dsq/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

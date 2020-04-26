@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Haotong Qin | Ruihao Gong</title>
+    <link>/author/haotong-qin/</link>
+      <atom:link href="/author/haotong-qin/index.xml" rel="self" type="application/rss+xml" />
+    <description>Haotong Qin</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 17 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0218ab8280f4fa11ac3ef903ebdf935e_6403_512x512_fill_lanczos_center_2.png</url>
+      <title>Haotong Qin</title>
+      <link>/author/haotong-qin/</link>
+    </image>
+    
+    <item>
+      <title>Forward and Backward Information Retention for Accurate Binary Neural Networks</title>
+      <link>/publication/conference-paper/cvpr2020/ir_net/</link>
+      <pubDate>Wed, 17 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/conference-paper/cvpr2020/ir_net/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

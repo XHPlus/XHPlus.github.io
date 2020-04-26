@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications | Ruihao Gong</title>
+    <link>/publication/</link>
+      <atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
+    <description>Publications</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 17 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0218ab8280f4fa11ac3ef903ebdf935e_6403_512x512_fill_lanczos_center_2.png</url>
+      <title>Publications</title>
+      <link>/publication/</link>
+    </image>
+    
+    <item>
+      <title>Differentiable Soft Quantization: Bridging Full-Precision and Low-Bit Neural Networks</title>
+      <link>/publication/conference-paper/iccv2019/dsq/</link>
+      <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/conference-paper/iccv2019/dsq/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Forward and Backward Information Retention for Accurate Binary Neural Networks</title>
+      <link>/publication/conference-paper/cvpr2020/ir_net/</link>
+      <pubDate>Wed, 17 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/conference-paper/cvpr2020/ir_net/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards Unified INT8 Training for Convolutional Neural Network</title>
+      <link>/publication/conference-paper/cvpr2020/int8_training/</link>
+      <pubDate>Tue, 16 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/conference-paper/cvpr2020/int8_training/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DMS: Differentiable Dimension Search for Binary Neural Networks</title>
+      <link>/publication/conference-paper/iclr2020/dms/</link>
+      <pubDate>Sun, 26 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/conference-paper/iclr2020/dms/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Binary neural networks: A survey</title>
+      <link>/publication/journal-article/pr/2020/bnn_survey/</link>
+      <pubDate>Fri, 21 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/journal-article/pr/2020/bnn_survey/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rotation Consistent Margin Loss for Efficient Low-bit Face Recognition</title>
+      <link>/publication/conference-paper/cvpr2020/rcm_loss/</link>
+      <pubDate>Tue, 16 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/conference-paper/cvpr2020/rcm_loss/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Balanced Binary Neural Networks with Gated Residual</title>
+      <link>/publication/conference-paper/icassp2020/bbg/</link>
+      <pubDate>Mon, 04 May 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/conference-paper/icassp2020/bbg/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
