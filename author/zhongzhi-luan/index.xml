@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Zhongzhi Luan | Ruihao Gong</title>
+    <link>/author/zhongzhi-luan/</link>
+      <atom:link href="/author/zhongzhi-luan/index.xml" rel="self" type="application/rss+xml" />
+    <description>Zhongzhi Luan</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 08 May 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0218ab8280f4fa11ac3ef903ebdf935e_6403_512x512_fill_lanczos_center_2.png</url>
+      <title>Zhongzhi Luan</title>
+      <link>/author/zhongzhi-luan/</link>
+    </image>
+    
+    <item>
+      <title>Extremely Low-bit Convolution Optimization for Quantized Neural Network on Modern Computer Architectures</title>
+      <link>/publication/conference-paper/icpp2020/low_bit_conv_optim/</link>
+      <pubDate>Fri, 08 May 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/conference-paper/icpp2020/low_bit_conv_optim/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

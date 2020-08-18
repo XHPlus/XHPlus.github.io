@@ -36,5 +36,21 @@
       <description></description>
     </item>
     
+    <item>
+      <title>DMS: Differentiable Dimension Search for Binary Neural Networks</title>
+      <link>/publication/conference-paper/iclr2020/dms/</link>
+      <pubDate>Sun, 26 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/conference-paper/iclr2020/dms/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Extremely Low-bit Convolution Optimization for Quantized Neural Network on Modern Computer Architectures</title>
+      <link>/publication/conference-paper/icpp2020/low_bit_conv_optim/</link>
+      <pubDate>Fri, 08 May 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/conference-paper/icpp2020/low_bit_conv_optim/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>

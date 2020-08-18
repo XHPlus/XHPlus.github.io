@@ -37,10 +37,42 @@
     </item>
     
     <item>
+      <title>DMS: Differentiable Dimension Search for Binary Neural Networks</title>
+      <link>/publication/conference-paper/iclr2020/dms/</link>
+      <pubDate>Sun, 26 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/conference-paper/iclr2020/dms/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Binary neural networks: A survey</title>
+      <link>/publication/journal-article/pr/2020/bnn_survey/</link>
+      <pubDate>Fri, 21 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/journal-article/pr/2020/bnn_survey/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Rotation Consistent Margin Loss for Efficient Low-bit Face Recognition</title>
       <link>/publication/conference-paper/cvpr2020/rcm_loss/</link>
       <pubDate>Tue, 16 Jun 2020 00:00:00 +0000</pubDate>
       <guid>/publication/conference-paper/cvpr2020/rcm_loss/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Extremely Low-bit Convolution Optimization for Quantized Neural Network on Modern Computer Architectures</title>
+      <link>/publication/conference-paper/icpp2020/low_bit_conv_optim/</link>
+      <pubDate>Fri, 08 May 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/conference-paper/icpp2020/low_bit_conv_optim/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Balanced Binary Neural Networks with Gated Residual</title>
+      <link>/publication/conference-paper/icassp2020/bbg/</link>
+      <pubDate>Mon, 04 May 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/conference-paper/icassp2020/bbg/</guid>
       <description></description>
     </item>
     
