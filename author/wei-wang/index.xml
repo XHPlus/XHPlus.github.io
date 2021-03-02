@@ -5,12 +5,20 @@
     <link>/author/wei-wang/</link>
       <atom:link href="/author/wei-wang/index.xml" rel="self" type="application/rss+xml" />
     <description>Wei Wang</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 08 Mar 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 21 Jan 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu0218ab8280f4fa11ac3ef903ebdf935e_6403_512x512_fill_lanczos_center_2.png</url>
       <title>Wei Wang</title>
       <link>/author/wei-wang/</link>
     </image>
+    
+    <item>
+      <title>BRECQ: Pushing the Limit of Post-Training Quantization by Block Reconstruction</title>
+      <link>/publication/conference-paper/iclr2021/brecq/</link>
+      <pubDate>Thu, 21 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/conference-paper/iclr2021/brecq/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Efficient Bitwidth Search for Practical Mixed Precision Neural Network</title>
