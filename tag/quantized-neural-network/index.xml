@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Quantized Neural Network | Ruihao Gong</title>
+    <link>https://example.com/tag/quantized-neural-network/</link>
+      <atom:link href="https://example.com/tag/quantized-neural-network/index.xml" rel="self" type="application/rss+xml" />
+    <description>Quantized Neural Network</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu0218ab8280f4fa11ac3ef903ebdf935e_6403_512x512_fill_lanczos_center_3.png</url>
+      <title>Quantized Neural Network</title>
+      <link>https://example.com/tag/quantized-neural-network/</link>
+    </image>
+    
+    <item>
+      <title>Extremely Low-Bit Convolution Optimization for Quantized Neural Network on Modern Computer Architectures</title>
+      <link>https://example.com/publication/2020-icpp-lowbit/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/2020-icpp-lowbit/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

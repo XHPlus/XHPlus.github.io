@@ -1,332 +1,215 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
-  <url>
-    <loc>/publication/conference-paper/iclr2021/brecq/</loc>
-    <lastmod>2021-01-21T00:00:00+00:00</lastmod>
-  </url>
   
   <url>
-    <loc>/publication/conference-paper/iccv2019/dsq/</loc>
-    <lastmod>2019-11-01T00:00:00+00:00</lastmod>
-  </url>
-  
+    <loc>https://example.com/talk/example-talk/</loc><lastmod>2030-06-01T13:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>/publication/conference-paper/cvpr2020/ir_net/</loc>
-    <lastmod>2020-06-17T00:00:00+00:00</lastmod>
-  </url>
-  
+    <loc>https://example.com/event/</loc><lastmod>2030-06-01T13:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>/publication/conference-paper/cvpr2020/int8_training/</loc>
-    <lastmod>2020-06-16T00:00:00+00:00</lastmod>
-  </url>
-  
+    <loc>https://example.com/</loc><lastmod>2030-06-01T13:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>/publication/conference-paper/iclr2020/dms/</loc>
-    <lastmod>2020-04-26T00:00:00+00:00</lastmod>
-  </url>
-  
+    <loc></loc><lastmod>2022-03-27T16:22:22+08:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>/publication/journal-article/pr/2020/bnn_survey/</loc>
-    <lastmod>2020-02-21T00:00:00+00:00</lastmod>
-  </url>
-  
+    <loc>https://example.com/publication-type/1/</loc><lastmod>2022-03-27T16:22:22+08:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>/publication/conference-paper/cvpr2021/dsg/</loc>
-    <lastmod>2021-06-16T00:00:00+00:00</lastmod>
-  </url>
-  
+    <loc></loc><lastmod>2022-03-27T16:22:22+08:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>/publication/conference-paper/cvpr2020/rcm_loss/</loc>
-    <lastmod>2020-06-16T00:00:00+00:00</lastmod>
-  </url>
-  
+    <loc>https://example.com/publication_types/</loc><lastmod>2022-03-27T16:22:22+08:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>/publication/conference-paper/icpp2020/low_bit_conv_optim/</loc>
-    <lastmod>2020-05-08T00:00:00+00:00</lastmod>
-  </url>
-  
+    <loc>https://example.com/publication/</loc><lastmod>2022-03-27T16:22:22+08:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>/publication/conference-paper/icassp2020/bbg/</loc>
-    <lastmod>2020-05-04T00:00:00+00:00</lastmod>
-  </url>
-  
+    <loc>https://example.com/publication/2022-iclr-qdrop/</loc><lastmod>2022-03-27T16:22:22+08:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>/publication/preprint/2020/ebs/</loc>
-    <lastmod>2020-03-08T00:00:00+00:00</lastmod>
-  </url>
-  
+    <loc></loc><lastmod>2022-03-27T16:22:22+08:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>/publication-type/1/</loc>
-    <lastmod>2021-06-16T00:00:00+00:00</lastmod>
-  </url>
-  
+    <loc></loc><lastmod>2022-03-27T16:22:22+08:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>/authors/</loc>
-    <lastmod>2021-06-16T00:00:00+00:00</lastmod>
-  </url>
-  
+    <loc></loc><lastmod>2022-03-27T16:22:22+08:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>/author/fengwei-yu/</loc>
-    <lastmod>2021-06-16T00:00:00+00:00</lastmod>
-  </url>
-  
+    <loc></loc><lastmod>2022-03-27T16:22:22+08:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>/author/haotong-qin/</loc>
-    <lastmod>2021-06-16T00:00:00+00:00</lastmod>
-  </url>
-  
+    <loc>https://example.com/tag/deep-learning/</loc><lastmod>2022-03-27T15:27:48+08:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>/publication_types/</loc>
-    <lastmod>2021-06-16T00:00:00+00:00</lastmod>
-  </url>
-  
+    <loc>https://example.com/project/lpcv2021-fpga-track/</loc><lastmod>2021-08-27T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>/publication/</loc>
-    <lastmod>2021-06-16T00:00:00+00:00</lastmod>
-  </url>
-  
+    <loc>https://example.com/project/</loc><lastmod>2021-08-27T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>/author/qinghua-yan/</loc>
-    <lastmod>2021-06-16T00:00:00+00:00</lastmod>
-  </url>
-  
+    <loc>https://example.com/tags/</loc><lastmod>2022-03-27T15:27:48+08:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>/author/renshuai-tao/</loc>
-    <lastmod>2021-06-16T00:00:00+00:00</lastmod>
-  </url>
-  
+    <loc>https://example.com/project/mqbench/</loc><lastmod>2021-07-27T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>/</loc>
-    <lastmod>2021-06-16T00:00:00+00:00</lastmod>
-  </url>
-  
+    <loc>https://example.com/publication-type/2/</loc><lastmod>2022-03-27T16:22:18+08:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>/tag/source-themes/</loc>
-    <lastmod>2021-06-16T00:00:00+00:00</lastmod>
-  </url>
-  
+    <loc></loc><lastmod>2022-03-27T16:22:14+08:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>/tags/</loc>
-    <lastmod>2021-06-16T00:00:00+00:00</lastmod>
-  </url>
-  
+    <loc></loc><lastmod>2022-03-27T16:22:14+08:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>/author/xiangguo-zhang/</loc>
-    <lastmod>2021-06-16T00:00:00+00:00</lastmod>
-  </url>
-  
+    <loc></loc><lastmod>2022-03-27T16:22:14+08:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>/author/xianglong-liu/</loc>
-    <lastmod>2021-06-16T00:00:00+00:00</lastmod>
-  </url>
-  
+    <loc></loc><lastmod>2022-03-27T16:22:14+08:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>/author/yifu-ding/</loc>
-    <lastmod>2021-06-16T00:00:00+00:00</lastmod>
-  </url>
-  
+    <loc>https://example.com/publication/2021-neuips-mqbench/</loc><lastmod>2022-03-27T16:22:14+08:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>/author/yuhang-li/</loc>
-    <lastmod>2021-06-16T00:00:00+00:00</lastmod>
-  </url>
-  
+    <loc></loc><lastmod>2022-03-27T16:22:14+08:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>/author/peng-hu/</loc>
-    <lastmod>2021-01-21T00:00:00+00:00</lastmod>
-  </url>
-  
+    <loc></loc><lastmod>2022-03-27T16:22:14+08:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>/author/qi-zhang/</loc>
-    <lastmod>2021-01-21T00:00:00+00:00</lastmod>
-  </url>
-  
+    <loc>https://example.com/project/robustart/</loc><lastmod>2021-06-27T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>/author/shi-gu/</loc>
-    <lastmod>2021-01-21T00:00:00+00:00</lastmod>
-  </url>
-  
+    <loc>https://example.com/publication/2021-cvpr-dsg/</loc><lastmod>2022-03-27T15:27:44+08:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>/author/wei-wang/</loc>
-    <lastmod>2021-01-21T00:00:00+00:00</lastmod>
-  </url>
-  
+    <loc></loc><lastmod>2022-03-27T15:27:48+08:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>/author/xu-tan/</loc>
-    <lastmod>2021-01-21T00:00:00+00:00</lastmod>
-  </url>
-  
+    <loc></loc><lastmod>2022-03-27T15:27:44+08:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>/author/yang-yang/</loc>
-    <lastmod>2021-01-21T00:00:00+00:00</lastmod>
-  </url>
-  
+    <loc></loc><lastmod>2022-03-27T15:27:44+08:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>/author/jingkuan-song/</loc>
-    <lastmod>2020-06-17T00:00:00+00:00</lastmod>
-  </url>
-  
+    <loc></loc><lastmod>2022-03-27T15:27:44+08:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>/author/mingzhu-shen/</loc>
-    <lastmod>2020-06-17T00:00:00+00:00</lastmod>
-  </url>
-  
+    <loc></loc><lastmod>2022-03-27T15:27:44+08:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>/author/ziran-wei/</loc>
-    <lastmod>2020-06-17T00:00:00+00:00</lastmod>
-  </url>
-  
+    <loc></loc><lastmod>2022-03-27T16:22:18+08:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>/author/ding-liang/</loc>
-    <lastmod>2020-06-16T00:00:00+00:00</lastmod>
-  </url>
-  
+    <loc></loc><lastmod>2022-03-27T16:22:18+08:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>/author/feng-zhu/</loc>
-    <lastmod>2020-06-16T00:00:00+00:00</lastmod>
-  </url>
-  
+    <loc>https://example.com/publication/2021-iclr-brecq/</loc><lastmod>2022-03-27T15:27:45+08:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>/author/junjie-yan/</loc>
-    <lastmod>2020-06-16T00:00:00+00:00</lastmod>
-  </url>
-  
+    <loc></loc><lastmod>2022-03-27T16:22:18+08:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>/author/ken-chen/</loc>
-    <lastmod>2020-06-16T00:00:00+00:00</lastmod>
-  </url>
-  
+    <loc></loc><lastmod>2022-03-27T16:22:18+08:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>/author/xiaolin-hu/</loc>
-    <lastmod>2020-06-16T00:00:00+00:00</lastmod>
-  </url>
-  
+    <loc></loc><lastmod>2022-03-27T16:22:18+08:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>/author/xiuqi-yang/</loc>
-    <lastmod>2020-06-16T00:00:00+00:00</lastmod>
-  </url>
-  
+    <loc></loc><lastmod>2022-03-27T15:27:45+08:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>/author/yanfei-wang/</loc>
-    <lastmod>2020-06-16T00:00:00+00:00</lastmod>
-  </url>
-  
+    <loc></loc><lastmod>2022-03-27T16:22:18+08:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>/author/yichao-wu/</loc>
-    <lastmod>2020-06-16T00:00:00+00:00</lastmod>
-  </url>
-  
+    <loc>https://example.com/publication/2021-arxiv-robustart/</loc><lastmod>2022-03-27T16:22:18+08:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>/author/yuanhao-lv/</loc>
-    <lastmod>2020-06-16T00:00:00+00:00</lastmod>
-  </url>
-  
+    <loc></loc><lastmod>2022-03-27T15:27:45+08:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>/author/yudong-wu/</loc>
-    <lastmod>2020-06-16T00:00:00+00:00</lastmod>
-  </url>
-  
+    <loc></loc><lastmod>2022-03-27T16:22:18+08:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>/author/zhelong-li/</loc>
-    <lastmod>2020-06-16T00:00:00+00:00</lastmod>
-  </url>
-  
+    <loc></loc><lastmod>2022-03-27T15:27:45+08:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>/author/bing-liu/</loc>
-    <lastmod>2020-05-08T00:00:00+00:00</lastmod>
-  </url>
-  
+    <loc></loc><lastmod>2022-03-27T16:22:18+08:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>/author/depei-qian/</loc>
-    <lastmod>2020-05-08T00:00:00+00:00</lastmod>
-  </url>
-  
+    <loc></loc><lastmod>2022-03-27T15:27:45+08:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>/author/hailong-yang/</loc>
-    <lastmod>2020-05-08T00:00:00+00:00</lastmod>
-  </url>
-  
+    <loc></loc><lastmod>2022-03-27T16:22:18+08:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>/author/qingchang-han/</loc>
-    <lastmod>2020-05-08T00:00:00+00:00</lastmod>
-  </url>
-  
+    <loc></loc><lastmod>2022-03-27T15:27:45+08:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>/author/rui-wang/</loc>
-    <lastmod>2020-05-08T00:00:00+00:00</lastmod>
-  </url>
-  
+    <loc>https://example.com/tag/academic/</loc><lastmod>2020-12-13T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>/author/yongmin-hu/</loc>
-    <lastmod>2020-05-08T00:00:00+00:00</lastmod>
-  </url>
-  
+    <loc>https://example.com/categories/</loc><lastmod>2020-12-13T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>/author/zhongzhi-luan/</loc>
-    <lastmod>2020-05-08T00:00:00+00:00</lastmod>
-  </url>
-  
+    <loc>https://example.com/category/demo/</loc><lastmod>2020-12-13T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>/author/kai-han/</loc>
-    <lastmod>2020-05-04T00:00:00+00:00</lastmod>
-  </url>
-  
+    <loc>https://example.com/post/</loc><lastmod>2020-12-13T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>/author/xin-dong/</loc>
-    <lastmod>2020-04-26T00:00:00+00:00</lastmod>
-  </url>
-  
+    <loc>https://example.com/post/getting-started/</loc><lastmod>2020-12-13T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>/publication-type/3/</loc>
-    <lastmod>2020-03-08T00:00:00+00:00</lastmod>
-  </url>
-  
+    <loc></loc><lastmod>2020-12-13T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>/author/haoli-bai/</loc>
-    <lastmod>2020-03-08T00:00:00+00:00</lastmod>
-  </url>
-  
+    <loc>https://example.com/tag/%E5%BC%80%E6%BA%90/</loc><lastmod>2020-12-13T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>/publication-type/2/</loc>
-    <lastmod>2020-02-21T00:00:00+00:00</lastmod>
-  </url>
-  
+    <loc>https://example.com/category/%E6%95%99%E7%A8%8B/</loc><lastmod>2020-12-13T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>/author/nicu-sebe/</loc>
-    <lastmod>2020-02-21T00:00:00+00:00</lastmod>
-  </url>
-  
+    <loc></loc><lastmod>2022-03-27T15:27:47+08:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>/author/xiao-bai/</loc>
-    <lastmod>2020-02-21T00:00:00+00:00</lastmod>
-  </url>
-  
+    <loc></loc><lastmod>2022-03-27T15:27:48+08:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>/author/jiazhen-lin/</loc>
-    <lastmod>2019-11-01T00:00:00+00:00</lastmod>
-  </url>
-  
+    <loc>https://example.com/publication/2020-cvpr-irnet/</loc><lastmod>2022-03-27T15:27:47+08:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>/author/shenghu-jiang/</loc>
-    <lastmod>2019-11-01T00:00:00+00:00</lastmod>
-  </url>
-  
+    <loc></loc><lastmod>2022-03-27T15:27:48+08:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>/author/tianxiang-li/</loc>
-    <lastmod>2019-11-01T00:00:00+00:00</lastmod>
-  </url>
-  
+    <loc></loc><lastmod>2022-03-27T15:27:47+08:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>/author/bruihao-gong/b/</loc>
-  </url>
-  
+    <loc>https://example.com/publication/2020-cvpr-rcmloss/</loc><lastmod>2022-03-27T15:27:47+08:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>/categories/</loc>
-  </url>
-  
+    <loc>https://example.com/publication/2020-cvpr-int-8-training/</loc><lastmod>2022-03-27T15:27:48+08:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>/author/ruihao-gong/</loc>
-  </url>
-  
-</urlset>
+    <loc></loc><lastmod>2022-03-27T15:27:47+08:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc></loc><lastmod>2022-03-27T15:27:48+08:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc></loc><lastmod>2022-03-27T15:27:48+08:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc></loc><lastmod>2022-03-27T15:27:47+08:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc></loc><lastmod>2022-03-27T15:27:47+08:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc></loc><lastmod>2022-03-27T15:27:47+08:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc></loc><lastmod>2022-03-27T15:27:48+08:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc></loc><lastmod>2022-03-27T15:27:47+08:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://example.com/publication/2020-icassp-bbg/</loc><lastmod>2022-03-27T15:27:45+08:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc></loc><lastmod>2022-03-27T15:27:45+08:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://example.com/publication/2020-iclrw-dms/</loc><lastmod>2022-03-27T15:27:46+08:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc></loc><lastmod>2022-03-27T15:27:46+08:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://example.com/publication-type/0/</loc><lastmod>2022-03-27T15:27:42+08:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://example.com/tag/arm-cpu/</loc><lastmod>2022-03-27T15:27:44+08:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://example.com/tag/binary-neural-network/</loc><lastmod>2022-03-27T15:27:48+08:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://example.com/publication/2020-pr-bnnsurvey/</loc><lastmod>2022-03-27T15:27:48+08:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc></loc><lastmod>2022-03-27T15:27:44+08:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://example.com/tag/computation-optimization/</loc><lastmod>2022-03-27T15:27:44+08:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc></loc><lastmod>2022-03-27T15:27:44+08:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://example.com/publication/2020-arxiv-ebs/</loc><lastmod>2022-03-27T15:27:42+08:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://example.com/tag/extremely-low-bit-convolution/</loc><lastmod>2022-03-27T15:27:44+08:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://example.com/publication/2020-icpp-lowbit/</loc><lastmod>2022-03-27T15:27:44+08:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc></loc><lastmod>2022-03-27T15:27:44+08:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc></loc><lastmod>2022-03-27T15:27:42+08:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://example.com/tag/model-acceleration/</loc><lastmod>2022-03-27T15:27:48+08:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://example.com/tag/model-compression/</loc><lastmod>2022-03-27T15:27:48+08:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://example.com/tag/network-quantization/</loc><lastmod>2022-03-27T15:27:48+08:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc></loc><lastmod>2022-03-27T15:27:48+08:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://example.com/tag/nvidia-gpu/</loc><lastmod>2022-03-27T15:27:44+08:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc></loc><lastmod>2022-03-27T15:27:44+08:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://example.com/tag/quantized-neural-network/</loc><lastmod>2022-03-27T15:27:44+08:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc></loc><lastmod>2022-03-27T15:27:44+08:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc></loc><lastmod>2022-03-27T15:27:48+08:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc></loc><lastmod>2022-03-27T15:27:44+08:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc></loc><lastmod>2022-03-27T15:27:44+08:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://example.com/publication/2019-iccv-dsq/</loc><lastmod>2022-03-27T15:27:43+08:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc></loc><lastmod>2022-03-27T15:27:43+08:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc></loc><lastmod>2022-03-27T15:27:43+08:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc></loc><lastmod>2022-03-27T15:27:43+08:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://example.com/slides/</loc><lastmod>2019-02-05T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://example.com/slides/example/</loc><lastmod>2019-02-05T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url></urlset>
