@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Quantization | Ruihao Gong</title>
+    <link>https://example.com/category/quantization/</link>
+      <atom:link href="https://example.com/category/quantization/index.xml" rel="self" type="application/rss+xml" />
+    <description>Quantization</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 17 Aug 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu0218ab8280f4fa11ac3ef903ebdf935e_6403_512x512_fill_lanczos_center_3.png</url>
+      <title>Quantization</title>
+      <link>https://example.com/category/quantization/</link>
+    </image>
+    
+    <item>
+      <title>Quantization frameworks</title>
+      <link>https://example.com/post/2021-quant-tool/</link>
+      <pubDate>Tue, 17 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/2021-quant-tool/</guid>
+      <description>&lt;p&gt;For details, please refer to &lt;a href=&#34;https://zhuanlan.zhihu.com/p/355598250&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Link&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Int8 ViT on TVM, 1.5 speed up compared with TensorRT</title>
+      <link>https://example.com/post/2021-vit-tvm-quant/</link>
+      <pubDate>Mon, 19 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/2021-vit-tvm-quant/</guid>
+      <description>&lt;p&gt;For details, please refer to &lt;a href=&#34;https://mp.weixin.qq.com/s/BtxmGr2YUyY1zDdL4sCJ9w&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Link&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Gap bettween the academia and industry, from the quantiztion perspective</title>
+      <link>https://example.com/post/2021-quant-gap/</link>
+      <pubDate>Mon, 08 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/2021-quant-gap/</guid>
+      <description>&lt;p&gt;For details, please refer to &lt;a href=&#34;https://zhuanlan.zhihu.com/p/349820682&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Link&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
