@@ -21,6 +21,22 @@
     </item>
     
     <item>
+      <title>MixMix: All You Need for Data-Free Compression Are Feature and Data Mixing</title>
+      <link>https://example.com/publication/2021-iccv-mixmix/</link>
+      <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/2021-iccv-mixmix/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Once Quantization-Aware Training: High Performance Extremely Low-Bit Architecture Search</title>
+      <link>https://example.com/publication/2021-iccv-oqa/</link>
+      <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/2021-iccv-oqa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>MQBench: Towards Reproducible and Deployable Model Quantization Benchmark</title>
       <link>https://example.com/publication/2021-neuips-mqbench/</link>
       <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>

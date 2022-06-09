@@ -21,6 +21,22 @@
     </item>
     
     <item>
+      <title>MixMix: All You Need for Data-Free Compression Are Feature and Data Mixing</title>
+      <link>https://example.com/publication/2021-iccv-mixmix/</link>
+      <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/2021-iccv-mixmix/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Once Quantization-Aware Training: High Performance Extremely Low-Bit Architecture Search</title>
+      <link>https://example.com/publication/2021-iccv-oqa/</link>
+      <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/2021-iccv-oqa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Research on Post-training Quantization - From classic to original</title>
       <link>https://example.com/talk/research-on-post-training-quantization-from-classic-to-original/</link>
       <pubDate>Fri, 27 Aug 2021 19:00:00 +0000</pubDate>
@@ -287,15 +303,15 @@ $$&lt;/p&gt;
 {{% fragment %}} Three {{% /fragment %}}
 &lt;/code&gt;&lt;/pre&gt;
 &lt;p&gt;Press &lt;code&gt;Space&lt;/code&gt; to play!&lt;/p&gt;
-&lt;span class=&#34;fragment &#34; &gt;
-  One
+&lt;p&gt;&lt;span class=&#34;fragment &#34; &gt;
+One
 &lt;/span&gt;
 &lt;span class=&#34;fragment &#34; &gt;
-  &lt;strong&gt;Two&lt;/strong&gt;
+&lt;strong&gt;Two&lt;/strong&gt;
 &lt;/span&gt;
 &lt;span class=&#34;fragment &#34; &gt;
-  Three
-&lt;/span&gt;
+Three
+&lt;/span&gt;&lt;/p&gt;
 &lt;hr&gt;
 &lt;p&gt;A fragment can accept two optional parameters:&lt;/p&gt;
 &lt;ul&gt;

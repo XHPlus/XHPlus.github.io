@@ -4,27 +4,51 @@
   
   
   <url>
-    <loc></loc><lastmod>2022-03-27T16:22:22+08:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc></loc><lastmod>2022-06-09T15:15:59+08:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://example.com/publication-type/1/</loc><lastmod>2022-03-27T16:22:22+08:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://example.com/publication-type/1/</loc><lastmod>2022-06-09T15:15:59+08:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc></loc><lastmod>2022-03-27T16:22:22+08:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc></loc><lastmod>2022-06-09T15:15:59+08:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://example.com/publication_types/</loc><lastmod>2022-03-27T16:22:22+08:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://example.com/publication_types/</loc><lastmod>2022-06-09T15:15:59+08:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://example.com/publication/</loc><lastmod>2022-03-27T16:22:22+08:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://example.com/publication/</loc><lastmod>2022-06-09T15:15:59+08:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://example.com/publication/2022-iclr-qdrop/</loc><lastmod>2022-03-27T16:22:22+08:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://example.com/</loc><lastmod>2022-03-27T16:22:22+08:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://example.com/</loc><lastmod>2022-06-09T15:15:59+08:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc></loc><lastmod>2022-06-09T15:15:59+08:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc></loc><lastmod>2022-03-27T16:22:22+08:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc></loc><lastmod>2022-03-27T16:22:22+08:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc></loc><lastmod>2022-03-27T16:22:22+08:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc></loc><lastmod>2022-06-09T15:15:59+08:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc></loc><lastmod>2022-03-27T16:22:22+08:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc></loc><lastmod>2022-06-09T14:35:16+08:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc></loc><lastmod>2022-06-09T14:35:16+08:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc></loc><lastmod>2022-06-09T14:35:16+08:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc></loc><lastmod>2022-06-09T15:15:59+08:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc></loc><lastmod>2022-06-09T14:35:16+08:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc></loc><lastmod>2022-06-09T15:15:59+08:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://example.com/publication/2021-iccv-mixmix/</loc><lastmod>2022-06-09T15:15:59+08:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://example.com/publication/2021-iccv-oqa/</loc><lastmod>2022-06-09T14:35:16+08:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc></loc><lastmod>2022-06-09T15:15:59+08:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc></loc><lastmod>2022-06-09T15:15:59+08:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc></loc><lastmod>2022-06-09T14:35:16+08:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc></loc><lastmod>2022-06-09T15:15:59+08:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://example.com/event/</loc><lastmod>2021-08-27T19:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
@@ -63,10 +87,6 @@
     <loc>https://example.com/project/mqbench/</loc><lastmod>2021-07-27T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://example.com/publication-type/2/</loc><lastmod>2022-03-27T16:22:18+08:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc></loc><lastmod>2022-03-27T16:22:14+08:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc></loc><lastmod>2022-03-27T16:22:14+08:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc></loc><lastmod>2022-03-27T16:22:14+08:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
@@ -122,8 +142,6 @@
   <url>
     <loc>https://example.com/publication/2021-arxiv-robustart/</loc><lastmod>2022-03-27T16:22:18+08:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc></loc><lastmod>2022-03-27T15:27:45+08:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
     <loc></loc><lastmod>2022-03-27T16:22:18+08:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc></loc><lastmod>2022-03-27T15:27:45+08:00</lastmod><changefreq>weekly</changefreq></url>
@@ -139,8 +157,6 @@
     <loc>https://example.com/talk/an-introduction-to-quantization/</loc><lastmod>2020-06-09T19:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc></loc><lastmod>2022-03-27T15:27:47+08:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc></loc><lastmod>2022-03-27T15:27:48+08:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://example.com/publication/2020-cvpr-irnet/</loc><lastmod>2022-03-27T15:27:47+08:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
@@ -173,8 +189,6 @@
     <loc></loc><lastmod>2022-03-27T15:27:45+08:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://example.com/publication/2020-iclrw-dms/</loc><lastmod>2022-03-27T15:27:46+08:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc></loc><lastmod>2022-03-27T15:27:46+08:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://example.com/publication-type/0/</loc><lastmod>2022-03-27T15:27:42+08:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
