@@ -5,12 +5,20 @@
     <link>https://example.com/</link>
       <atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
     <description>Ruihao Gong</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 21 May 2022 05:30:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu0218ab8280f4fa11ac3ef903ebdf935e_6403_512x512_fill_lanczos_center_3.png</url>
       <title>Ruihao Gong</title>
       <link>https://example.com/</link>
     </image>
+    
+    <item>
+      <title>When industrial model toolchain meets Xilinx FPGA</title>
+      <link>https://example.com/talk/when-industrial-model-toolchain-meets-xilinx-fpga/</link>
+      <pubDate>Sat, 21 May 2022 05:30:00 +0000</pubDate>
+      <guid>https://example.com/talk/when-industrial-model-toolchain-meets-xilinx-fpga/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>QDrop: Randomly Dropping Quantization for Extremely Low-bit Post-Training Quantization</title>
@@ -303,15 +311,15 @@ $$&lt;/p&gt;
 {{% fragment %}} Three {{% /fragment %}}
 &lt;/code&gt;&lt;/pre&gt;
 &lt;p&gt;Press &lt;code&gt;Space&lt;/code&gt; to play!&lt;/p&gt;
-&lt;p&gt;&lt;span class=&#34;fragment &#34; &gt;
-One
+&lt;span class=&#34;fragment &#34; &gt;
+  One
 &lt;/span&gt;
 &lt;span class=&#34;fragment &#34; &gt;
-&lt;strong&gt;Two&lt;/strong&gt;
+  &lt;strong&gt;Two&lt;/strong&gt;
 &lt;/span&gt;
 &lt;span class=&#34;fragment &#34; &gt;
-Three
-&lt;/span&gt;&lt;/p&gt;
+  Three
+&lt;/span&gt;
 &lt;hr&gt;
 &lt;p&gt;A fragment can accept two optional parameters:&lt;/p&gt;
 &lt;ul&gt;

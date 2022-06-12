@@ -5,12 +5,20 @@
     <link>https://example.com/event/</link>
       <atom:link href="https://example.com/event/index.xml" rel="self" type="application/rss+xml" />
     <description>Recent &amp; Upcoming Talks</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 27 Aug 2021 19:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 21 May 2022 05:30:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu0218ab8280f4fa11ac3ef903ebdf935e_6403_512x512_fill_lanczos_center_3.png</url>
       <title>Recent &amp; Upcoming Talks</title>
       <link>https://example.com/event/</link>
     </image>
+    
+    <item>
+      <title>When industrial model toolchain meets Xilinx FPGA</title>
+      <link>https://example.com/talk/when-industrial-model-toolchain-meets-xilinx-fpga/</link>
+      <pubDate>Sat, 21 May 2022 05:30:00 +0000</pubDate>
+      <guid>https://example.com/talk/when-industrial-model-toolchain-meets-xilinx-fpga/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Research on Post-training Quantization - From classic to original</title>
