@@ -13,10 +13,34 @@
     </image>
     
     <item>
+      <title>NNLQP: A Multi-Platform Neural Network Latency Query and Prediction System with An Evolving Database</title>
+      <link>https://example.com/publication/2022-icpp-nnlqp/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/2022-icpp-nnlqp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>QDrop: Randomly Dropping Quantization for Extremely Low-bit Post-Training Quantization</title>
       <link>https://example.com/publication/2022-iclr-qdrop/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
       <guid>https://example.com/publication/2022-iclr-qdrop/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MixMix: All You Need for Data-Free Compression Are Feature and Data Mixing</title>
+      <link>https://example.com/publication/2021-iccv-mixmix/</link>
+      <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/2021-iccv-mixmix/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Once Quantization-Aware Training: High Performance Extremely Low-Bit Architecture Search</title>
+      <link>https://example.com/publication/2021-iccv-oqa/</link>
+      <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/2021-iccv-oqa/</guid>
       <description></description>
     </item>
     
