@@ -5,12 +5,20 @@
     <link>https://example.com/publication-type/2/</link>
       <atom:link href="https://example.com/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
     <description>2</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jul 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Oct 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu0218ab8280f4fa11ac3ef903ebdf935e_6403_512x512_fill_lanczos_center_3.png</url>
       <title>2</title>
       <link>https://example.com/publication-type/2/</link>
     </image>
+    
+    <item>
+      <title>Distribution-Sensitive Information Retention for Accurate Binary Neural Network</title>
+      <link>https://example.com/publication/2022-ijcv-bnn/</link>
+      <pubDate>Sat, 01 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/2022-ijcv-bnn/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>MQBench: Towards Reproducible and Deployable Model Quantization Benchmark</title>
