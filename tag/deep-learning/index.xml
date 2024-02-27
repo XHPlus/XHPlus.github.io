@@ -5,7 +5,7 @@
     <link>https://example.com/tag/deep-learning/</link>
       <atom:link href="https://example.com/tag/deep-learning/index.xml" rel="self" type="application/rss+xml" />
     <description>Deep Learning</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 27 Aug 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 27 Aug 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu0218ab8280f4fa11ac3ef903ebdf935e_6403_512x512_fill_lanczos_center_3.png</url>
       <title>Deep Learning</title>
@@ -13,7 +13,22 @@
     </image>
     
     <item>
-      <title>LPCV2021 Winner Solution of FPGA Track</title>
+      <title>LPCV 2023 Winner Solution</title>
+      <link>https://example.com/project/lpcv2023-fpga-track/</link>
+      <pubDate>Sun, 27 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/project/lpcv2023-fpga-track/</guid>
+      <description>&lt;p&gt;This project contains the complete implementation that wins the LPCV 2023 Challenge.&lt;/p&gt;
+&lt;p&gt;The leaderboard can be seen at &lt;a href=&#34;https://lpcv.ai/scoreboard/Segmentation23&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;LPCV2023 Leaderboard&lt;/a&gt; (ModelTC Team).&lt;/p&gt;
+&lt;p&gt;Code:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/ModelTC/LPCV_2023_solution&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com/ModelTC/LPCV_2023_solution&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/ModelTC/UP_LPCV2023_Plugin&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com/ModelTC/UP_LPCV2023_Plugin&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>LPCV 2021 Winner Solution of FPGA Track</title>
       <link>https://example.com/project/lpcv2021-fpga-track/</link>
       <pubDate>Fri, 27 Aug 2021 00:00:00 +0000</pubDate>
       <guid>https://example.com/project/lpcv2021-fpga-track/</guid>

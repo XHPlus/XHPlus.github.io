@@ -5,7 +5,7 @@
     <link>https://example.com/project/</link>
       <atom:link href="https://example.com/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 27 Aug 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 27 Jan 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu0218ab8280f4fa11ac3ef903ebdf935e_6403_512x512_fill_lanczos_center_3.png</url>
       <title>Projects</title>
@@ -13,7 +13,73 @@
     </image>
     
     <item>
-      <title>LPCV2021 Winner Solution of FPGA Track</title>
+      <title>LightLLM</title>
+      <link>https://example.com/project/lightllm/</link>
+      <pubDate>Sat, 27 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://example.com/project/lightllm/</guid>
+      <description>&lt;p&gt;LightLLM is a Python-based LLM (Large Language Model) inference and serving framework, notable for its lightweight design, easy scalability, and high-speed performance. LightLLM harnesses the strengths of numerous well-regarded open-source implementations, including but not limited to FasterTransformer, TGI, vLLM, and FlashAttention.&lt;/p&gt;
+&lt;h2 id=&#34;features&#34;&gt;Features&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Tri-process asynchronous collaboration: tokenization, model inference, and detokenization are performed asynchronously, leading to a considerable improvement in GPU utilization.&lt;/li&gt;
+&lt;li&gt;Nopad (Unpad): offers support for nopad attention operations across multiple models to efficiently handle requests with large length disparities.&lt;/li&gt;
+&lt;li&gt;Dynamic Batch: enables dynamic batch scheduling of requests&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/Dao-AILab/flash-attention&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;FlashAttention&lt;/a&gt;: incorporates FlashAttention to improve speed and reduce GPU memory footprint during inference.&lt;/li&gt;
+&lt;li&gt;Tensor Parallelism: utilizes tensor parallelism over multiple GPUs for faster inference.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;./docs/TokenAttention.md&#34;&gt;Token Attention&lt;/a&gt;: implements token-wise&amp;rsquo;s KV cache memory management mechanism, allowing for zero memory waste during inference.&lt;/li&gt;
+&lt;li&gt;High-performance Router: collaborates with Token Attention to meticulously manage the GPU memory of each token, thereby optimizing system throughput.&lt;/li&gt;
+&lt;li&gt;Int8KV Cache: This feature will increase the capacity of tokens to almost twice as much. only llama support.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;supported-model-list&#34;&gt;Supported Model List&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://huggingface.co/bigscience/bloom&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;BLOOM&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/facebookresearch/llama&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;LLaMA&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://huggingface.co/meta-llama&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;LLaMA V2&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/bigcode-project/starcoder&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;StarCoder&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/QwenLM/Qwen-7B&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Qwen-7b&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/THUDM/ChatGLM2-6B&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ChatGLM2-6b&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/baichuan-inc/Baichuan-7B&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Baichuan-7b&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/baichuan-inc/Baichuan2&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Baichuan2-7b&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/baichuan-inc/Baichuan2&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Baichuan2-13b&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/baichuan-inc/Baichuan-13B&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Baichuan-13b&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/InternLM/InternLM&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;InternLM-7b&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://huggingface.co/01-ai/Yi-34B&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Yi-34b&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://huggingface.co/Qwen/Qwen-VL&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Qwen-VL&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://huggingface.co/Qwen/Qwen-VL-Chat&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Qwen-VL-Chat&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://huggingface.co/liuhaotian/llava-v1.5-7b&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Llava-7b&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://huggingface.co/liuhaotian/llava-v1.5-13b&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Llava-13b&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;&#34;&gt;Mixtral&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://huggingface.co/stabilityai/stablelm-2-1_6b&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Stablelm&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://huggingface.co/openbmb/MiniCPM-2B-sft-bf16&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MiniCPM&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>EasyLLM</title>
+      <link>https://example.com/project/easyllm/</link>
+      <pubDate>Fri, 26 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://example.com/project/easyllm/</guid>
+      <description>&lt;p&gt;Built upon Megatron-Deepspeed and HuggingFace Trainer, EasyLLM has reorganized the code logic with a focus on usability. While enhancing usability, it also ensures training efficiency.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>LPCV 2023 Winner Solution</title>
+      <link>https://example.com/project/lpcv2023-fpga-track/</link>
+      <pubDate>Sun, 27 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/project/lpcv2023-fpga-track/</guid>
+      <description>&lt;p&gt;This project contains the complete implementation that wins the LPCV 2023 Challenge.&lt;/p&gt;
+&lt;p&gt;The leaderboard can be seen at &lt;a href=&#34;https://lpcv.ai/scoreboard/Segmentation23&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;LPCV2023 Leaderboard&lt;/a&gt; (ModelTC Team).&lt;/p&gt;
+&lt;p&gt;Code:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/ModelTC/LPCV_2023_solution&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com/ModelTC/LPCV_2023_solution&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/ModelTC/UP_LPCV2023_Plugin&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com/ModelTC/UP_LPCV2023_Plugin&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>LPCV 2021 Winner Solution of FPGA Track</title>
       <link>https://example.com/project/lpcv2021-fpga-track/</link>
       <pubDate>Fri, 27 Aug 2021 00:00:00 +0000</pubDate>
       <guid>https://example.com/project/lpcv2021-fpga-track/</guid>

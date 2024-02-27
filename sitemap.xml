@@ -4,49 +4,183 @@
   
   
   <url>
-    <loc></loc><lastmod>2022-10-09T18:59:29+08:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc></loc><lastmod>2024-02-27T22:50:36+08:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://example.com/publication-type/2/</loc><lastmod>2022-10-09T18:59:29+08:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://example.com/publication-type/1/</loc><lastmod>2024-02-27T22:50:36+08:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://example.com/publication-type/2/</loc><lastmod>2024-02-27T22:50:35+08:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://example.com/publication/2024-aaai-pts/</loc><lastmod>2024-02-27T22:49:58+08:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc></loc><lastmod>2024-02-27T22:50:34+08:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc></loc><lastmod>2024-02-27T22:50:36+08:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://example.com/publication_types/</loc><lastmod>2024-02-27T22:50:36+08:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://example.com/publication/</loc><lastmod>2024-02-27T22:50:36+08:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc></loc><lastmod>2024-02-27T22:50:35+08:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://example.com/</loc><lastmod>2024-02-27T22:50:36+08:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc></loc><lastmod>2024-02-27T22:50:36+08:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://example.com/publication/2024-aaai-lanequant/</loc><lastmod>2024-02-27T22:50:35+08:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://example.com/publication/2024-cvpr-tfmq-dm/</loc><lastmod>2024-02-27T22:50:34+08:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc></loc><lastmod>2024-02-27T22:50:34+08:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc></loc><lastmod>2024-02-27T22:50:36+08:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc></loc><lastmod>2024-02-27T22:50:36+08:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc></loc><lastmod>2024-02-27T22:50:36+08:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc></loc><lastmod>2024-02-27T22:49:58+08:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc></loc><lastmod>2024-02-27T22:50:35+08:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc></loc><lastmod>2024-02-27T22:50:35+08:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc></loc><lastmod>2024-02-27T22:50:34+08:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc></loc><lastmod>2024-02-27T22:49:58+08:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://example.com/project/lightllm/</loc><lastmod>2024-01-27T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://example.com/tag/llm/</loc><lastmod>2024-01-27T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://example.com/project/</loc><lastmod>2024-01-27T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://example.com/tags/</loc><lastmod>2024-02-27T22:49:59+08:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://example.com/project/easyllm/</loc><lastmod>2024-01-26T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc></loc><lastmod>2024-02-27T22:49:59+08:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc></loc><lastmod>2024-02-27T22:49:51+08:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc></loc><lastmod>2024-02-27T22:49:51+08:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc></loc><lastmod>2024-02-27T22:49:59+08:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc></loc><lastmod>2024-02-27T22:49:59+08:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://example.com/tag/long-tailed-recognition/</loc><lastmod>2024-02-27T22:49:59+08:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://example.com/publication/2024-iclr-qllm/</loc><lastmod>2024-02-27T22:49:51+08:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://example.com/publication/2023-nn-rect/</loc><lastmod>2024-02-27T22:49:59+08:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://example.com/tag/representation-bias/</loc><lastmod>2024-02-27T22:49:59+08:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://example.com/tag/vision-language-model/</loc><lastmod>2024-02-27T22:49:59+08:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc></loc><lastmod>2024-02-27T22:49:59+08:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc></loc><lastmod>2024-02-27T22:49:59+08:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc></loc><lastmod>2024-02-27T22:49:51+08:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://example.com/publication/2023-emnlp-osplus/</loc><lastmod>2024-02-27T22:50:36+08:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc></loc><lastmod>2024-02-27T22:50:36+08:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc></loc><lastmod>2024-02-27T22:50:36+08:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc></loc><lastmod>2024-02-27T22:49:52+08:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://example.com/publication/2023-iccv-l-2-compress/</loc><lastmod>2024-02-27T22:49:52+08:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc></loc><lastmod>2024-02-27T22:50:35+08:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc></loc><lastmod>2024-02-27T22:49:52+08:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://example.com/tag/deep-learning/</loc><lastmod>2023-08-27T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://example.com/project/lpcv2023-fpga-track/</loc><lastmod>2023-08-27T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc></loc><lastmod>2024-02-27T22:49:52+08:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://example.com/publication/2023-cvpr-allow/</loc><lastmod>2024-02-27T22:49:51+08:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc></loc><lastmod>2024-02-27T22:49:52+08:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc></loc><lastmod>2024-02-27T22:49:52+08:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://example.com/publication/2023-cvpr-robust-model/</loc><lastmod>2024-02-27T22:49:52+08:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc></loc><lastmod>2024-02-27T22:49:51+08:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc></loc><lastmod>2024-02-27T22:49:51+08:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc></loc><lastmod>2024-02-27T22:49:52+08:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc></loc><lastmod>2024-02-27T22:49:52+08:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc></loc><lastmod>2024-02-27T22:49:51+08:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://example.com/tag/auto-tuning/</loc><lastmod>2024-02-27T22:49:53+08:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc></loc><lastmod>2024-02-27T22:49:53+08:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://example.com/publication/2023-electronics-semantic-diffusion/</loc><lastmod>2024-02-27T22:50:35+08:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://example.com/publication/2023-icpp-familyseer/</loc><lastmod>2024-02-27T22:49:53+08:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc></loc><lastmod>2024-02-27T22:49:53+08:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc></loc><lastmod>2024-02-27T22:49:53+08:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc></loc><lastmod>2024-02-27T22:49:50+08:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc></loc><lastmod>2024-02-27T22:49:53+08:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://example.com/tag/performance-optimization/</loc><lastmod>2024-02-27T22:49:53+08:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc></loc><lastmod>2024-02-27T22:49:53+08:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://example.com/tag/subgraph-similarity/</loc><lastmod>2024-02-27T22:49:53+08:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://example.com/publication/2023-mlsys-sysnoise/</loc><lastmod>2024-02-27T22:49:50+08:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://example.com/tag/tensor-compiler/</loc><lastmod>2024-02-27T22:49:53+08:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc></loc><lastmod>2024-02-27T22:50:35+08:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc></loc><lastmod>2024-02-27T22:50:35+08:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc></loc><lastmod>2024-02-27T22:49:50+08:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc></loc><lastmod>2024-02-27T22:50:35+08:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc></loc><lastmod>2024-02-27T22:49:53+08:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc></loc><lastmod>2024-02-27T22:49:53+08:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://example.com/publication/2022-ijcv-bnn/</loc><lastmod>2022-10-09T18:59:29+08:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc></loc><lastmod>2022-10-09T18:59:29+08:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://example.com/publication_types/</loc><lastmod>2022-10-09T18:59:29+08:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://example.com/publication/</loc><lastmod>2022-10-09T18:59:29+08:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://example.com/</loc><lastmod>2022-10-09T18:59:29+08:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
     <loc></loc><lastmod>2022-10-09T18:59:29+08:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc></loc><lastmod>2022-10-09T18:59:29+08:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc></loc><lastmod>2022-10-09T18:59:29+08:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc></loc><lastmod>2022-10-09T18:59:29+08:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc></loc><lastmod>2022-10-09T18:59:29+08:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://example.com/publication-type/1/</loc><lastmod>2022-10-09T17:23:32+08:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc></loc><lastmod>2022-10-09T17:23:32+08:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://example.com/publication/2022-neurips-outlier-suppression/</loc><lastmod>2022-10-09T17:23:32+08:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc></loc><lastmod>2022-10-09T17:23:32+08:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc></loc><lastmod>2022-10-09T17:23:32+08:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc></loc><lastmod>2022-10-09T17:23:32+08:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc></loc><lastmod>2022-10-09T17:23:32+08:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://example.com/event/</loc><lastmod>2022-05-21T05:30:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://example.com/talk/when-industrial-model-toolchain-meets-xilinx-fpga/</loc><lastmod>2022-05-21T05:30:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc></loc><lastmod>2022-07-06T00:35:36+08:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://example.com/tag/adversarial-attacks/</loc><lastmod>2024-02-27T22:19:39+08:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://example.com/publication/2022-mm-adv-vit/</loc><lastmod>2024-02-27T22:19:39+08:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc></loc><lastmod>2024-02-27T22:19:39+08:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc></loc><lastmod>2024-02-27T22:19:39+08:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://example.com/tag/latency-prediction/</loc><lastmod>2022-07-06T00:35:36+08:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
@@ -64,9 +198,13 @@
   <url>
     <loc>https://example.com/publication/2022-iclr-qdrop/</loc><lastmod>2022-03-27T16:22:22+08:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://example.com/tags/</loc><lastmod>2022-07-06T00:35:36+08:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://example.com/tag/transferability/</loc><lastmod>2024-02-27T22:19:39+08:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc></loc><lastmod>2022-06-09T15:15:59+08:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://example.com/tag/vision-transformer/</loc><lastmod>2024-02-27T22:19:39+08:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc></loc><lastmod>2024-02-27T22:19:39+08:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc></loc><lastmod>2024-02-27T22:19:39+08:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc></loc><lastmod>2022-06-09T14:35:16+08:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
@@ -92,11 +230,7 @@
   <url>
     <loc>https://example.com/talk/research-on-post-training-quantization-from-classic-to-original/</loc><lastmod>2021-08-27T19:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://example.com/tag/deep-learning/</loc><lastmod>2022-03-27T15:27:48+08:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
     <loc>https://example.com/project/lpcv2021-fpga-track/</loc><lastmod>2021-08-27T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://example.com/project/</loc><lastmod>2021-08-27T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://example.com/post/2021-tvm-sparsity/</loc><lastmod>2021-08-26T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
@@ -152,13 +286,7 @@
   <url>
     <loc></loc><lastmod>2022-03-27T16:22:18+08:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc></loc><lastmod>2022-03-27T16:22:18+08:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
     <loc>https://example.com/publication/2021-iclr-brecq/</loc><lastmod>2022-03-27T15:27:45+08:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc></loc><lastmod>2022-03-27T16:22:18+08:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc></loc><lastmod>2022-03-27T16:22:18+08:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc></loc><lastmod>2022-03-27T16:22:18+08:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
@@ -168,15 +296,11 @@
   <url>
     <loc>https://example.com/publication/2021-arxiv-robustart/</loc><lastmod>2022-03-27T16:22:18+08:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc></loc><lastmod>2022-03-27T16:22:18+08:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
     <loc></loc><lastmod>2022-03-27T15:27:45+08:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc></loc><lastmod>2022-03-27T16:22:18+08:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc></loc><lastmod>2022-03-27T15:27:45+08:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc></loc><lastmod>2022-03-27T16:22:18+08:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc></loc><lastmod>2022-03-27T15:27:45+08:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
@@ -228,8 +352,6 @@
   <url>
     <loc>https://example.com/tag/computation-optimization/</loc><lastmod>2022-03-27T15:27:44+08:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc></loc><lastmod>2022-03-27T15:27:44+08:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
     <loc>https://example.com/publication/2020-arxiv-ebs/</loc><lastmod>2022-03-27T15:27:42+08:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://example.com/tag/extremely-low-bit-convolution/</loc><lastmod>2022-03-27T15:27:44+08:00</lastmod><changefreq>weekly</changefreq></url>
@@ -258,8 +380,6 @@
   <url>
     <loc></loc><lastmod>2022-03-27T15:27:44+08:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc></loc><lastmod>2022-03-27T15:27:44+08:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
     <loc>https://example.com/publication/2019-iccv-dsq/</loc><lastmod>2022-03-27T15:27:43+08:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc></loc><lastmod>2022-03-27T15:27:43+08:00</lastmod><changefreq>weekly</changefreq></url>
@@ -270,4 +390,10 @@
   <url>
     <loc>https://example.com/slides/</loc><lastmod>2019-02-05T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://example.com/slides/example/</loc><lastmod>2019-02-05T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url></urlset>
+    <loc>https://example.com/slides/example/</loc><lastmod>2019-02-05T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://example.com/publication/example-1/</loc><lastmod>2024-02-27T22:49:54+08:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc></loc><lastmod>2024-02-27T22:49:54+08:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc></loc><lastmod>2024-02-27T22:49:54+08:00</lastmod><changefreq>weekly</changefreq></url></urlset>

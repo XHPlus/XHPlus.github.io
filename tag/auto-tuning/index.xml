@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Auto-tuning | Ruihao Gong</title>
+    <link>https://example.com/tag/auto-tuning/</link>
+      <atom:link href="https://example.com/tag/auto-tuning/index.xml" rel="self" type="application/rss+xml" />
+    <description>Auto-tuning</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu0218ab8280f4fa11ac3ef903ebdf935e_6403_512x512_fill_lanczos_center_3.png</url>
+      <title>Auto-tuning</title>
+      <link>https://example.com/tag/auto-tuning/</link>
+    </image>
+    
+    <item>
+      <title>Exploiting Subgraph Similarities for Efficient Auto-tuning of Tensor Programs</title>
+      <link>https://example.com/publication/2023-icpp-familyseer/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/2023-icpp-familyseer/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
