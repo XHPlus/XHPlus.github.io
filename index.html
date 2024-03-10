@@ -280,6 +280,45 @@
 
 
 
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-YK9NGMPV5B"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url, target) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           if (target !== '_blank') {
+             document.location = url;
+           }
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'G-YK9NGMPV5B', {});
+  gtag('set', {'cookie_flags': 'SameSite=None;Secure'});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
+
+
   
 
 
@@ -1335,6 +1374,26 @@
   
 
   
+  
+    <div class="card experience course">
+      <div class="card-body">
+        <div class="d-flex align-content-start">
+          <div class="mr-2 mb-2"><a href="https://www.sensetime.com/en" target="_blank" rel="noopener"><img src="/media/icons/brands/sensetime.svg" width="56px" height="56px" alt="SenseTime" loading="lazy"></a></div>
+          <div>
+        <div class="section-subheading card-title exp-title text-muted my-0">SenseTime Black Sheep Award (five people per Year)</div><div class="card-subtitle my-0 article-metadata"><a href="https://www.sensetime.com/en" target="_blank" rel="noopener">SenseTime</a><span class="middot-divider"></span>
+
+              Mar 2024
+              
+            </div>
+          </div>
+        </div>
+        
+
+        
+
+        
+      </div>
+    </div>
   
     <div class="card experience course">
       <div class="card-body">
