@@ -5,12 +5,39 @@
     <link>https://example.com/project/</link>
       <atom:link href="https://example.com/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 27 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 26 Nov 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu0218ab8280f4fa11ac3ef903ebdf935e_6403_512x512_fill_lanczos_center_3.png</url>
       <title>Projects</title>
       <link>https://example.com/project/</link>
     </image>
+    
+    <item>
+      <title>LLMC</title>
+      <link>https://example.com/project/llmc/</link>
+      <pubDate>Tue, 26 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>https://example.com/project/llmc/</guid>
+      <description>&lt;p&gt;LLMC is an off-the-shell tool designed for compressing LLM, leveraging state-of-the-art compression algorithms to enhance efficiency and reduce model size without compromising performance.&lt;/p&gt;
+&lt;h2 id=&#34;highlight-feature&#34;&gt;Highlight Feature&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;💥&lt;strong&gt;Comprehensive Algorithm Support&lt;/strong&gt;: Provides a broad range of ✨&lt;code&gt;SOTA compression algorithms&lt;/code&gt;, including ✅quantization, ✅mixed-precision quantization, and ✅sparsity, while maintaining accuracy consistent with the original repositories. ✨&lt;code&gt;Quantization best practices&lt;/code&gt; (see 🚀&lt;code&gt;Best Practices&lt;/code&gt; &lt;a href=&#34;https://llmc-en.readthedocs.io/en/latest/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;) are also available to ensure optimal performance and efficiency.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;💥&lt;strong&gt;Supported Formats&lt;/strong&gt;: Supports both ✨&lt;code&gt;quantization&lt;/code&gt; (integer and floating-point) and ✨&lt;code&gt;sparsity&lt;/code&gt;, specifically including ✅weight-activation, ✅weight-only, ✅mixed-precision quantization, as well as ✅structured and ✅unstructured sparsity.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;💥&lt;strong&gt;Wide Model Support&lt;/strong&gt;: Offers support for a diverse array of ✨&lt;code&gt;LLM models&lt;/code&gt;, including ✅LLama, ✅Mistral, ✅InternLM2, ✅Qwen2, among others, as well as ✅MOE(DeepSeekv2, Deepseekv2.5) and ✅VLM(Llama3.2-vision, Qwen2-vl) models (see &lt;a href=&#34;#supported-model-list&#34;&gt;Supported Model List&lt;/a&gt;).&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;💥&lt;strong&gt;Multi-backend Compatibility&lt;/strong&gt;: Seamlessly integrates with various backends for enhanced deployment flexibility. Multiple quantization settings and model formats are compatible with a wide range of backends and hardware platforms, such as ✅VLLM, ✅Sglang, ✅LightLLM, ✅MLC-LLM, and ✅AutoAWQ, making it highly versatile(see Section &lt;code&gt;Backend&lt;/code&gt; &lt;a href=&#34;https://llmc-en.readthedocs.io/en/latest/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;).&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;💥&lt;strong&gt;Performance Efficiency&lt;/strong&gt;: Enables quantization of large LLMs, such as ✨&lt;code&gt;Llama3.1-405B&lt;/code&gt; and ✨&lt;code&gt;DeepSeekV2-236B&lt;/code&gt;, with PPL evaluation on a &lt;code&gt;single A100/H100/H800 GPU&lt;/code&gt;.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
     
     <item>
       <title>LightLLM</title>
