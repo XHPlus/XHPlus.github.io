@@ -20,4 +20,5 @@ doi: 10.18653/v1/2024.emnlp-industry.12
 links:
 - name: URL
   url: https://aclanthology.org/2024.emnlp-industry.12/
+featured: true
 ---
