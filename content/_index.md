@@ -51,6 +51,8 @@ sections:
           - publication
         featured_only: true
       count: 12
+      archive:
+        enable: true
     design:
       view: article-grid
       columns: 2

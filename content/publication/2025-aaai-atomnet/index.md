@@ -13,7 +13,7 @@ authors:
 date: '2025-04-01'
 publishDate: '2025-05-05T17:08:59.958277Z'
 publication_types:
-- article-journal
+- paper-conference
 publication: '*Proceedings of the AAAI Conference on Artificial Intelligence*'
 doi: 10.1609/aaai.v39i15.33796
 links:

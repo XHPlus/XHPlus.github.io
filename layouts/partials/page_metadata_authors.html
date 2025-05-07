@@ -1,0 +1,29 @@
+{{/* Display author list. */}}  
+  
+{{- $taxonomy := "authors" }}  
+{{ if .Param $taxonomy }}  
+  {{ range $index, $value := (.GetTerms $taxonomy) }}  
+    {{- /* Highlight the author's name? */ -}}  
+    {{- $highlight_name := .Page.Params.highlight_name | default false -}}  
+  
+    {{- if gt $index 0 }}, {{ end -}}  
+    <span {{ if $highlight_name }}class="font-bold"{{end}}>  
+      {{/* Effectively check the page's `_build` option as `_build` is not exposed in Hugo's Page object. */}}  
+      {{- if .RelPermalink -}}  
+        <a href="{{.RelPermalink}}">{{.LinkTitle}}</a>  
+      {{- else -}}  
+        {{ .LinkTitle }}  
+      {{- end -}}  
+    </span>  
+    {{- if isset $.Params "author_notes" -}}  
+      {{- with (index $.Params.author_notes $index) -}}  
+        <span class="group relative">  
+          <span class="author-notes text-primary-500 font-bold">*</span>  
+          <span class="pointer-events-none absolute -top-10 left-1/2 -translate-x-1/2 whitespace-nowrap rounded bg-black px-2 py-1 text-white opacity-0 transition before:absolute before:left-1/2 before:top-full before:-translate-x-1/2 before:border-4 before:border-transparent before:border-t-black before:content-[''] group-hover:opacity-100">  
+            {{.}}  
+          </span>  
+        </span>  
+      {{- end -}}  
+    {{- end -}}  
+  {{- end -}}  
+{{- end -}}

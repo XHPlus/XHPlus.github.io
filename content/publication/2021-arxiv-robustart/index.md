@@ -59,7 +59,7 @@ image:
 projects: ['robustart']
 publishDate: '2022-03-27T08:22:18.567278Z'
 publication_types:
-- article-journal
+- paper-conference
 abstract: ''
 publication: 'Arxiv'
 ---

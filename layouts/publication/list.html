@@ -111,13 +111,10 @@
                   <a href="{{ .RelPermalink }}">{{ .Title }}</a>  
                 </h3>  
                   
-                {{/* 作者 */}}  
-                {{ with .Params.authors }}  
-                <div class="mt-2 text-sm text-gray-600 dark:text-gray-400">  
-                  {{ delimit . ", " }}  
-                </div>  
-                {{ end }}  
-                  
+                <span class="article-metadata li-cite-author">
+                  {{ partial "page_metadata_authors" . }}
+                </span>
+  
                 {{/* 出版物信息 */}}  
                 {{ with .Params.publication }}  
                 <div class="mt-1 text-sm italic text-gray-600 dark:text-gray-400">  

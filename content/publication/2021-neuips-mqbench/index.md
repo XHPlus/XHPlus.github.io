@@ -60,7 +60,7 @@ image:
 projects: ["mqbench"]
 publishDate: '2022-03-27T08:22:14.729101Z'
 publication_types:
-- article-journal
+- paper-conference
 abstract: ''
 publication: '*Proceedings of the Neural Information Processing Systems Track on Datasets and Benchmarks*'
 ---

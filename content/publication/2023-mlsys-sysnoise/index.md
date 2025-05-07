@@ -51,7 +51,7 @@ image:
 projects: []
 publishDate: '2024-02-27T14:49:50.213014Z'
 publication_types:
-- article-journal
+- paper-conference
 abstract: ''
 publication: '*Proceedings of Machine Learning and Systems*'
 ---

@@ -36,7 +36,7 @@ image:
 projects: []
 publishDate: '2024-02-27T14:49:58.707878Z'
 publication_types:
-- article-journal
+- paper-conference
 abstract: ''
 publication: '*Proceedings of the AAAI Conference on Artificial Intelligence*'
 ---
