@@ -213,11 +213,14 @@
   // 2. 标记初始状态
   document.documentElement.classList.add('publication-loading');
 
-  function initFilters() {
+  function initFilters(restoreState) {
     const yearFilter = document.getElementById('year-filter');
     const typeFilter = document.getElementById('type-filter');
 
-    if (!yearFilter || !typeFilter) return;
+    if (!yearFilter || !typeFilter) {
+      console.error('Filter elements not found');
+      return;
+    }
 
     // 恢复筛选状态
     function restoreFilterState() {
@@ -225,6 +228,7 @@
       const savedType = sessionStorage.getItem('publication-type-filter');
       if (savedYear) yearFilter.value = savedYear;
       if (savedType) typeFilter.value = savedType;
+      console.log('Restored filter state:', { savedYear, savedType });
     }
 
     // 筛选逻辑
@@ -235,6 +239,7 @@
       // 保存状态
       sessionStorage.setItem('publication-year-filter', selectedYear);
       sessionStorage.setItem('publication-type-filter', selectedType);
+      console.log('Saved filter state:', { selectedYear, selectedType });
 
       // 筛选项目
       document.querySelectorAll('.publication-item').forEach(item => {
@@ -258,11 +263,15 @@
     }
 
     // 初始化执行
-    restoreFilterState();
+    if (restoreState) {
+      restoreFilterState();
+    }
     filterPublications();
 
-    // 移除加载状态
-    document.documentElement.classList.remove('publication-loading');
+    // 延迟移除加载状态
+    setTimeout(() => {
+      document.documentElement.classList.remove('publication-loading');
+    }, 100); // Adjust the delay as needed
 
     // 添加事件监听
     yearFilter.addEventListener('change', filterPublications);
@@ -272,10 +281,10 @@
   // 3. 多种方式触发初始化
   function initialize() {
     if (document.readyState === 'complete') {
-      initFilters();
+      initFilters(false);
     } else {
-      document.addEventListener('DOMContentLoaded', initFilters);
-      window.addEventListener('load', initFilters);
+      document.addEventListener('DOMContentLoaded', () => initFilters(false));
+      window.addEventListener('load', () => initFilters(false));
     }
   }
 
@@ -283,7 +292,7 @@
   window.addEventListener('pageshow', function(event) {
     if (event.persisted) {
       document.documentElement.classList.add('publication-loading');
-      initFilters();
+      initFilters(true);
     }
   });
 
