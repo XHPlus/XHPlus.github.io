@@ -195,106 +195,100 @@
 {{/* 添加 JavaScript 筛选功能 */}}  
 <script>
 (function() {
-  // 存储筛选状态的函数
-  function saveFilterState() {
-    const yearFilter = document.getElementById('year-filter');
-    const typeFilter = document.getElementById('type-filter');
-
-    if (yearFilter && typeFilter) {
-      // 将当前选择保存到sessionStorage
-      sessionStorage.setItem('publication-year-filter', yearFilter.value);
-      sessionStorage.setItem('publication-type-filter', typeFilter.value);
-    }
+  // 1. 只在<head>添加一次初始化样式
+  if (!document.getElementById('filter-initial-style')) {
+    const style = document.createElement('style');
+    style.id = 'filter-initial-style';
+    style.textContent = `
+      .publication-loading .publication-item,
+      .publication-loading .year-heading {
+        opacity: 0;
+        height: 0;
+        overflow: hidden;
+      }
+    `;
+    document.head.appendChild(style);
   }
 
-  // 恢复筛选状态的函数
-  function restoreFilterState() {
-    const yearFilter = document.getElementById('year-filter');
-    const typeFilter = document.getElementById('type-filter');
+  // 2. 标记初始状态
+  document.documentElement.classList.add('publication-loading');
 
-    if (yearFilter && typeFilter) {
-      // 从sessionStorage恢复选择
-      const savedYear = sessionStorage.getItem('publication-year-filter');
-      const savedType = sessionStorage.getItem('publication-type-filter');
-
-      if (savedYear) yearFilter.value = savedYear;
-      if (savedType) typeFilter.value = savedType;
-    }
-  }
-
-  // 初始化筛选功能
   function initFilters() {
     const yearFilter = document.getElementById('year-filter');
     const typeFilter = document.getElementById('type-filter');
-    const publicationItems = document.querySelectorAll('.publication-item');
 
-    if (!yearFilter || !typeFilter) return; // 如果元素不存在则退出
+    if (!yearFilter || !typeFilter) return;
 
-    // 恢复之前保存的状态
-    restoreFilterState();
+    // 恢复筛选状态
+    function restoreFilterState() {
+      const savedYear = sessionStorage.getItem('publication-year-filter');
+      const savedType = sessionStorage.getItem('publication-type-filter');
+      if (savedYear) yearFilter.value = savedYear;
+      if (savedType) typeFilter.value = savedType;
+    }
 
-    // 筛选函数
+    // 筛选逻辑
     function filterPublications() {
       const selectedYear = yearFilter.value;
       const selectedType = typeFilter.value;
 
-      // 保存当前选择状态
-      saveFilterState();
+      // 保存状态
+      sessionStorage.setItem('publication-year-filter', selectedYear);
+      sessionStorage.setItem('publication-type-filter', selectedType);
 
-      publicationItems.forEach(item => {
+      // 筛选项目
+      document.querySelectorAll('.publication-item').forEach(item => {
         const itemYear = item.getAttribute('data-year');
         const itemTypes = item.getAttribute('data-types').split(',');
 
-        const yearMatch = !selectedYear || itemYear === selectedYear;
-        const typeMatch = !selectedType || itemTypes.includes(selectedType);
+        const show = (!selectedYear || itemYear === selectedYear) &&
+                   (!selectedType || itemTypes.includes(selectedType));
 
-        if (yearMatch && typeMatch) {
-          item.style.display = '';
-        } else {
-          item.style.display = 'none';
-        }
+        item.style.display = show ? 'block' : 'none';
       });
 
-      // 更新年份标题的可见性
+      // 更新年份标题
       document.querySelectorAll('.year-heading').forEach(heading => {
-        const yearSection = heading.nextElementSibling;
-        const visibleItems = yearSection.querySelectorAll('.publication-item[style=""]').length;
+        const year = heading.id;
+        const hasVisible = Array.from(document.querySelectorAll(`.publication-item[data-year="${year}"]`))
+          .some(item => item.style.display !== 'none');
 
-        if (visibleItems === 0) {
-          heading.style.display = 'none';
-        } else {
-          heading.style.display = '';
-        }
+        heading.style.display = hasVisible ? 'block' : 'none';
       });
     }
 
-    // 移除现有事件监听器（防止重复）
-    yearFilter.removeEventListener('change', filterPublications);
-    typeFilter.removeEventListener('change', filterPublications);
-
-    // 添加事件监听器
-    yearFilter.addEventListener('change', filterPublications);
-    typeFilter.addEventListener('change', filterPublications);
-
-    // 应用初始筛选
+    // 初始化执行
+    restoreFilterState();
     filterPublications();
 
-    // 在页面卸载前保存状态
-    window.addEventListener('beforeunload', saveFilterState);
+    // 移除加载状态
+    document.documentElement.classList.remove('publication-loading');
+
+    // 添加事件监听
+    yearFilter.addEventListener('change', filterPublications);
+    typeFilter.addEventListener('change', filterPublications);
   }
 
-  // 在DOMContentLoaded时初始化
-  document.addEventListener('DOMContentLoaded', initFilters);
+  // 3. 多种方式触发初始化
+  function initialize() {
+    if (document.readyState === 'complete') {
+      initFilters();
+    } else {
+      document.addEventListener('DOMContentLoaded', initFilters);
+      window.addEventListener('load', initFilters);
+    }
+  }
 
-  // 在pageshow事件时也初始化（处理浏览器后退/前进导航）
+  // 4. 处理浏览器历史导航
   window.addEventListener('pageshow', function(event) {
-    initFilters();
+    if (event.persisted) {
+      document.documentElement.classList.add('publication-loading');
+      initFilters();
+    }
   });
 
-  // 如果DOM已经加载完成，立即初始化
-  if (document.readyState === 'complete' || document.readyState === 'interactive') {
-    setTimeout(initFilters, 1);
-  }
+  // 启动
+  initialize();
 })();
 </script>
   
