@@ -18,10 +18,10 @@ authors:
 - Philip H. S. Torr
 - Dacheng Tao
 author_notes:
-- "Equal contribution"
-- "Equal contribution"
-- "Equal contribution"
-- "Equal contribution"
+- "Equal Contribution"
+- "Equal Contribution"
+- "Equal Contribution"
+- "Equal Contribution"
 tags: []
 categories: []
 date: '2021-01-01'

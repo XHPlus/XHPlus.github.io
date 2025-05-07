@@ -12,8 +12,8 @@ authors:
 - Xianglong Liu
 - Fengwei Yu
 author_notes:
-- "Equal contribution"
-- "Equal contribution"
+- "Equal Contribution"
+- "Equal Contribution"
 tags: []
 categories: []
 date: '2022-01-01'

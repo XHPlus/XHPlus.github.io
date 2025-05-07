@@ -15,10 +15,10 @@ authors:
 - Fengwei Yu
 - Xianglong Liu
 author_notes:
-- "Equal contribution"
-- "Equal contribution"
-- "Equal contribution"
-- "Equal contribution"
+- "Equal Contribution"
+- "Equal Contribution"
+- "Equal Contribution"
+- "Equal Contribution"
 tags: []
 categories: []
 date: '2023-01-01'

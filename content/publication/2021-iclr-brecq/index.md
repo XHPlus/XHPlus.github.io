@@ -15,8 +15,8 @@ authors:
 - Wei Wang
 - Shi Gu
 author_notes:
-- "Equal contribution"
-- "Equal contribution"
+- "Equal Contribution"
+- "Equal Contribution"
 tags: []
 categories: []
 date: '2021-01-01'

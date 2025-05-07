@@ -15,9 +15,9 @@ authors:
 - Hailong Yang
 - Xianglong Liu
 author_notes:
-- "Equal contribution"
-- "Equal contribution"
-- "Equal contribution"
+- "Equal Contribution"
+- "Equal Contribution"
+- "Equal Contribution"
 
 
 date: '2025-01-01'

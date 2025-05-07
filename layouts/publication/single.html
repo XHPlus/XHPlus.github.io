@@ -46,16 +46,22 @@
             <img src="{{ $avatar.RelPermalink }}" alt="{{ $author_page.Title }}" class="inline-block h-4 w-4 rounded-full border border-current" loading="lazy" />
             {{ end }}
             <div {{if $author_page.Params.website}}class="group-hover:underline"{{end}}>{{ $author_page.Title }}</div>
-            {{- if isset $.Params "author_notes" -}}  
-              {{- with (index $.Params.author_notes $i) -}}  
-                <div class="group relative inline-block">  
-                  <span class="text-primary-500">*</span>  
-                  <span class="pointer-events-none absolute -top-10 left-1/2 -translate-x-1/2 whitespace-nowrap rounded bg-black px-2 py-1 text-white opacity-0 transition before:absolute before:left-1/2 before:top-full before:-translate-x-1/2 before:border-4 before:border-transparent before:border-t-black before:content-[''] group-hover:opacity-100">  
-                    {{.}}  
-                  </span>  
+            {{- if isset $.Params "author_notes" -}}
+              {{- with (index $.Params.author_notes $i) -}}
+                <div class="group relative inline-block">
+                  {{- if eq . "Equal Contribution" -}}
+                    <span class="text-primary-500">*</span>
+                  {{- else if eq . "Corresponding Author" -}}
+                    <span class="text-primary-500">📧</span>
+                  {{- else -}}
+                    <span class="text-primary-500"></span>
+                  {{- end -}}
+                  <span class="pointer-events-none absolute -top-10 left-1/2 -translate-x-1/2 whitespace-nowrap rounded bg-black px-2 py-1 text-white opacity-0 transition before:absolute before:left-1/2 before:top-full before:-translate-x-1/2 before:border-4 before:border-transparent before:border-t-black before:content-[''] group-hover:opacity-100">
+                    {{.}}
+                  </span>
                 </div>
-              {{- end -}}  
-            {{- end -}}  
+              {{- end -}}
+            {{- end -}}
           </div>
           {{ with $author_page.Params.website }}
           </a>

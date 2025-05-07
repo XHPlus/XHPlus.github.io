@@ -11,8 +11,8 @@ authors:
 - Tianlong Chen
 - Xianglong Liu
 author_notes:
-- "Equal contribution"
-- "Equal contribution"
+- "Equal Contribution"
+- "Equal Contribution"
 tags: []
 categories: []
 date: '2024-06-01'

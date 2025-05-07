@@ -11,10 +11,10 @@ authors:
 - Dacheng Tao
 - Xianglong Liu
 author_notes:
-- "Equal contribution"
-- "Equal contribution"
-- "Equal contribution"
-- "Equal contribution"
+- "Equal Contribution"
+- "Equal Contribution"
+- "Equal Contribution"
+- "Equal Contribution"
 date: '2024-11-01'
 publishDate: '2025-05-05T17:08:59.740227Z'
 publication_types:
