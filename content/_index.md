@@ -54,6 +54,23 @@ sections:
     design:
       view: article-grid
       columns: 2
+  - block: collection
+    id: projects
+    content:
+      title: Featured Projects
+      filters:
+        folders:
+          - project
+      count: 10
+    design:
+      view: article-grid
+      fill_image: false
+      columns: 3
+  - block: resume-awards
+    id: award
+    content:
+      title: Award
+      username: ruihao-gong
   # - block: collection
   #   content:
   #     title: Recent Publications

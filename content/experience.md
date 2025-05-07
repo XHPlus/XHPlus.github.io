@@ -27,7 +27,7 @@ sections:
   - block: resume-awards
     content:
       title: Awards
-      username: admin
+      username: ruihao-gong
   # - block: resume-languages
   #   content:
   #     title: Languages

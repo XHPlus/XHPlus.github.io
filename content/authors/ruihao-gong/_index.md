@@ -153,42 +153,49 @@ awards:
   - title: CCF Outstanding Undergraduate Award
     url: ""
     date: '2018-10-25'
+    date_start: '2018-10-25'
     awarder: China Computer Federation (CCF)
     icon: ""
     summary: |
   - title: National Scholarship
     url: ""
     date: '2019-10-25'
+    date_start: '2019-10-25'
     awarder: "Ministry of Education"
     icon: ""
     summary: |
   - title: SenseTime Future Star Talents
     url: ""
     date: '2019-12-25'
+    date_start: '2019-12-25'
     awarder: "SenseTime"
     icon: ""
     summary: |
   - title: Tencent Rhino-Bird Elite Training Program
     url: ""
     date: '2020-07-25'
+    date_start: '2020-07-25'
     awarder: "Tencent"
     icon: ""
     summary: |
   - title: Winner of Low Power Computer Vision Challenge
     url: ""
     date: '2021-08-25'
+    date_start: '2021-08-25'
     awarder: "IEEE"
     icon: ""
     summary: |
   - title: Winner of Low Power Computer Vision Challenge
     url: ""
     date: '2023-08-25'
+    date_start: '2023-08-25'
     awarder: "IEEE"
     icon: ""
     summary: |
   - title: 2023 IEEE UAV Chase Challenge Award
     url: ""
     date: '2023-08-25'
+    date_start: '2023-08-25'
     awarder: "IEEE"
     icon: ""
     summary: |
