@@ -1,6 +1,5 @@
 ---
-title: 'OMNIBAL: TOWARDS FAST INSTRUCT-TUNING FOR VISION-LANGUAGE MODELS VIA OMNIVERSE
-  COMPUTATION BALANCE'
+title: 'OMNIBAL: Towards Fast Instruction-Tuning for Vision-Language Models via Omniverse Computation Balance'
 authors:
 - Yongqiang Yao
 - Jingru Tan
@@ -13,6 +12,15 @@ authors:
 - Pengfei Liu
 - Dahua Lin
 - Ningyi Xu
+author_notes:
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- "Corresponding Author"
 date: '2025-01-01'
 publishDate: '2025-05-12T05:27:20.070854Z'
 publication_types:
