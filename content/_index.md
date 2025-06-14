@@ -50,7 +50,7 @@ sections:
         folders:
           - publication
         featured_only: true
-      count: 12
+      count: 14
       archive:
         enable: true
     design:
