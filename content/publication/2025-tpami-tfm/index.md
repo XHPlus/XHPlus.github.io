@@ -14,4 +14,5 @@ publication_types:
 - article-journal
 publication: '*IEEE Transactions on Pattern Analysis and Machine Intelligence*'
 doi: 10.1109/TPAMI.2025.3585692
+url_pdf: https://ieeexplore.ieee.org/abstract/document/11068163
 ---
