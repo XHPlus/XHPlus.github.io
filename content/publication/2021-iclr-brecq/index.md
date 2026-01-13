@@ -29,7 +29,7 @@ draft: false
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
+url_pdf: 'https://openreview.net/forum?id=POWv6hDd9XH'
 url_code: 'https://github.com/ModelTC/MQBench'
 url_dataset: ''
 url_poster: ''

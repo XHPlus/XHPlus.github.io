@@ -27,6 +27,5 @@ tags:
 - System
 - Algorithm
 links:
-- name: URL
-  url: https://www.sciencedirect.com/science/article/pii/S0893608025007361
+url_pdf: https://www.sciencedirect.com/science/article/pii/S0893608025007361
 ---

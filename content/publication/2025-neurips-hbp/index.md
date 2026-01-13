@@ -27,8 +27,7 @@ date: '2025-01-01'
 publishDate: '2026-01-13T04:57:18.945072Z'
 publication_types:
 - paper-conference
-publication: '*The Thirty-ninth Annual Conference on Neural Information Processing
-  Systems (NeurIPS)*'
+publication: '*The Thirty-ninth Annual Conference on Neural Information Processing Systems (NeurIPS)*'
 url_pdf: https://openreview.net/forum?id=6BHDre6WQW
 url_code: https://github.com/ModelTC/HBP
 ---

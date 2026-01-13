@@ -22,7 +22,7 @@ draft: false
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
+url_pdf: 'http://www.sciencedirect.com/science/article/pii/S0031320320300856'
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -63,7 +63,4 @@ abstract: The binary neural network, largely saving the storage and computation,
   Finally, the challenges that may be faced in future research are prospected.
 publication: '*Pattern Recognition*'
 doi: https://doi.org/10.1016/j.patcog.2020.107281
-links:
-- name: URL
-  url: http://www.sciencedirect.com/science/article/pii/S0031320320300856
 ---

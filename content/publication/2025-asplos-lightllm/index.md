@@ -49,7 +49,7 @@ featured: true
 
 # Links
 url_pdf: ''
-url_code: ''
+url_code: 'https://github.com/ModelTC/lightllm'
 url_dataset: ''
 url_poster: ''
 url_project: ''
