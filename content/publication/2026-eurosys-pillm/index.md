@@ -1,5 +1,5 @@
 ---
-title: 'PiLLM: Resource-e!cient LLM Inference Using Workload Prediction'
+title: 'PiLLM: Resource-efficient LLM Inference Using Workload Prediction'
 authors:
 - Yunqian Fan
 - Shihao Bai
